@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Johnpaschal001
-- 👀 I’m interested in Cryptocurrency and other related stuffs. 
-- 🌱 I’m currently a Crypto Trader.
-- 📫 How to reach me; mobile number: +2348104514500. 
+- 👋 Hi, I’m @Johnpaschal
+- 👀 I’m interested in Cryptocurrency,web development,technology
+- 🌱 I’m currently a Crypto Trader and a frontend developer
+- 📫 How to reach me; mobile number: +2348104514500
 
 Other social media: twitter handle: @JohnpaschaA; facebook: Johnpaschal Nnaemeka;
 Instagram:@Johnpaschal271
